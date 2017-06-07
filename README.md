@@ -1,2 +1,3 @@
-# sql_exercises
-A Collection of SQL Scripting Exercises
+## A Collection of SQL Scripting Exercises
+
+* Create & Populate Database Tables
